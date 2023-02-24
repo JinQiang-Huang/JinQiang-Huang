@@ -1,4 +1,4 @@
-# Hi, I'm JinQiang. I'm a fan of IT Network System Administration.
+# Hi, I'm a fan of IT Network System Administration.
 
 ## Good at content
 Windows/Linux Operation System Installation, Configuration and Commissioning.
