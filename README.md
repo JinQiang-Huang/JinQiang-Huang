@@ -1,4 +1,4 @@
-# Hi, I'm a fan of IT Network System Administration.:wave::wave:
+# Hi, I'm a fan of IT Network System Administration.:wave:
 
 ## :face_with_head_bandage:Good at content:writing_hand:
 <p>Windows/Linux Operation System Installation, Configuration and Commissioning.</p>
