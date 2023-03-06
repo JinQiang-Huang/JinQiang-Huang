@@ -1,6 +1,6 @@
 # Hi, I'm a Enthusiast of IT Network System Administration.:wave:
 
-## :face_with_head_bandage:Good at content:writing_hand:
+## :face_with_head_bandage:Skill introduction:writing_hand:
  - <p>Windows/Linux Operation System Installation, Configuration and Commissioning.</p>
  - <p>Cisco network technology design and deploymen.</p>
  - <p>Ansible automated batch deployment infrastructure.</p>
